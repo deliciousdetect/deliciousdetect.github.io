@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bakery on Delicious Detector</title>
+    <link>http://deliciousdetector.com/tags/bakery/</link>
+    <description>Recent content in Bakery on Delicious Detector</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (C) 2014-2015 Delicious Detector; all rights reserved.</copyright>
+    <lastBuildDate>Sun, 05 Jul 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://deliciousdetector.com/tags/bakery/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Knead Bakery</title>
+      <link>http://deliciousdetector.com/food/knead-bakery-hood-river/</link>
+      <pubDate>Sun, 05 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://deliciousdetector.com/food/knead-bakery-hood-river/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.kneadhoodriver.com/&#34;&gt;http://www.kneadhoodriver.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
