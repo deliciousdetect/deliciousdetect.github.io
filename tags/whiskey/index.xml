@@ -1,79 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Seattle on Delicious Detector</title>
-    <link>http://deliciousdetector.com/tags/seattle/</link>
-    <description>Recent content in Seattle on Delicious Detector</description>
+    <title>Whiskey on Delicious Detector</title>
+    <link>http://deliciousdetector.com/tags/whiskey/</link>
+    <description>Recent content in Whiskey on Delicious Detector</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (C) 2014-2016 Delicious Detector; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 04 Jul 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://deliciousdetector.com/tags/seattle/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Tray Fremont</title>
-      <link>http://deliciousdetector.com/food/tray-fremont/</link>
-      <pubDate>Sat, 04 Jul 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://deliciousdetector.com/food/tray-fremont/</guid>
-      <description>&lt;p&gt;First visit to Tray, a new restaurant in the Fremont neighborhood of Seattle.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Citizen</title>
-      <link>http://deliciousdetector.com/food/citizen/</link>
-      <pubDate>Sun, 05 Apr 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://deliciousdetector.com/food/citizen/</guid>
-      <description>&lt;p&gt;I’ve been going to this place for years, and I love it!&lt;/p&gt;
-
-&lt;p&gt;Unfortunately, that’s about all I can say because I love it so much. I can not risk having any
-bearded hipsters overrunning this place!&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.citizencoffee.com/&#34;&gt;http://www.citizencoffee.com/&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>2015 Washington Cask Beer Festival</title>
-      <link>http://deliciousdetector.com/drafts/2015-washington-cask-beer-festival/</link>
-      <pubDate>Sat, 28 Mar 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://deliciousdetector.com/drafts/2015-washington-cask-beer-festival/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Damn The Weather</title>
-      <link>http://deliciousdetector.com/food/damn-the-weather-seattle/</link>
-      <pubDate>Wed, 22 Oct 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://deliciousdetector.com/food/damn-the-weather-seattle/</guid>
-      <description>&lt;p&gt;Some time in October 2014 I checked out Damn the Weather in Seattle’s Pioneer
-Square. This was obviously before it was featured as a &amp;ldquo;Best new restaurant&amp;rdquo;
-in Seattle Magazine.&lt;/p&gt;
-
-&lt;p&gt;Here’s what you need to know:
-The ice cubes there are from another planet. They are melted from the bottom up,
-I shit you not. These cubes will make your cocktail experience one to remember
-for a long time.&lt;/p&gt;
-
-&lt;p&gt;Food:
-I had the sandwich with the egg placed into the bread itself. You want this.
-Grilled romaine salad was pretty Damn Tasty too.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://damntheweather.com&#34;&gt;http://damntheweather.com&lt;/a&gt;
-&lt;a href=&#34;http://www.yelp.com/biz/damn-the-weather-seattle&#34;&gt;http://www.yelp.com/biz/damn-the-weather-seattle&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;I was feeling hungry and adventurous, so after we left here we set out for
-Kedai Makan on Capitol Hill.&lt;/p&gt;
-
-&lt;p&gt;Read more about that here:
-&lt;a href=&#34;http://www.kedaimakansea.com&#34;&gt;http://www.kedaimakansea.com&lt;/a&gt;
-&lt;a href=&#34;http://www.yelp.com/biz/kedai-makan-seattle&#34;&gt;http://www.yelp.com/biz/kedai-makan-seattle&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Tue, 27 May 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://deliciousdetector.com/tags/whiskey/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>CloudBurst Brewing</title>

@@ -98,8 +98,21 @@
   </url>
   
   <url>
+    <loc>http://deliciousdetector.com/drink/oola-distillery-tasting-notes/</loc>
+    <lastmod>2014-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://deliciousdetector.com/about/</loc>
     <lastmod>2014-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://deliciousdetector.com/drafts/counter-balance-brewing/</loc>
+  </url>
+  
+  <url>
+    <loc>http://deliciousdetector.com/drafts/fonda-la-catrina/</loc>
   </url>
   
 </urlset>
