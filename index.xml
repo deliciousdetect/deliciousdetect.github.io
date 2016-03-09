@@ -7,8 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (C) 2014-2016 Delicious Detector; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 21 Dec 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://deliciousdetector.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Latest Instagram Post!</title>
+      <link>http://deliciousdetector.com/latest-instagram-post/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://deliciousdetector.com/latest-instagram-post/</guid>
+      <description>
+
+&lt;!-- Embed the newest Instagram post from a specific IG account http://forum.webflow.com/t/embed-latest-instagram-photo/4438/8 --&gt;
+
+&lt;h2 id=&#34;the-post-should-render-below:62bad60e3f0039a8c228ce75fccf3b5e&#34;&gt;The post should render below&lt;/h2&gt;
+
+&lt;p&gt;{{ partial &amp;ldquo;latestig.html&amp;rdquo; . }}&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>2015 Travel Resume</title>
@@ -485,33 +501,6 @@ visiting!&lt;/p&gt;
 the upcoming schedule and location. Just remember all the action is hidden
 in the back, so don&amp;rsquo;t worry if you are in the right place. You will have a
 great time!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Cafe Rococo</title>
-      <link>http://deliciousdetector.com/food/tavern-hall-bellevue/</link>
-      <pubDate>Thu, 07 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://deliciousdetector.com/food/tavern-hall-bellevue/</guid>
-      <description>&lt;p&gt;This is a joint upstairs in the infamous Bellevue Square Mall. You have to enter
-from the street on Bellevue Way, which makes it seem less &amp;ldquo;mall-ey.” I think I
-just made up a word. You walk up some winding stair cases until you see some
-windows. On the other side of said windows, it kind of looks like a scene from
-an old 40’s movie.&lt;/p&gt;
-
-&lt;p&gt;My visit was during late lunch time. Their black bean burger was really good.
-I don’t really like the vibe of this place, however, the bar top made of pennies
-is really cool. The craft beer selection was pretty decent for a restaurant/bar
-adjacent to a giant mall. The bartender was very cool. He told me that it turns
-into a club or something night club&amp;rsquo;ish on the weekends. I think I just made up
-another word again. I can’t even imagine who shows up to this place in the evening.
-Perhaps it’s nicer than I’m imagining.&lt;/p&gt;
-
-&lt;p&gt;Bottom line:
-Come here for the food and drinks, not the atmosphere.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.tavern-hall.com/&#34;&gt;http://www.tavern-hall.com/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
