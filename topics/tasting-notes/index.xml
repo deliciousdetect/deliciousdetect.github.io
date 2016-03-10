@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Washington Craft Beer on Delicious Detector</title>
-    <link>http://deliciousdetector.com/topics/washington-craft-beer/</link>
-    <description>Recent content in Washington Craft Beer on Delicious Detector</description>
+    <title>Tasting Notes on Delicious Detector</title>
+    <link>http://deliciousdetector.com/topics/tasting-notes/</link>
+    <description>Recent content in Tasting Notes on Delicious Detector</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (C) 2014-2016 Delicious Detector; all rights reserved.</copyright>
     <lastBuildDate>Wed, 09 Mar 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://deliciousdetector.com/topics/washington-craft-beer/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://deliciousdetector.com/topics/tasting-notes/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Tasting Notes March 9th, 2016</title>
@@ -29,15 +29,6 @@ This is a great beer if you want something strong, smooth and dark. Very solid f
 You&amp;rsquo;ll need a few sips to let this one settle on your palate. Once you are warmed up though, if you are
 seeking an espresso / coffee flavor, this is a solid choice.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>2015 Washington Cask Beer Festival</title>
-      <link>http://deliciousdetector.com/drafts/2015-washington-cask-beer-festival/</link>
-      <pubDate>Sat, 28 Mar 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://deliciousdetector.com/drafts/2015-washington-cask-beer-festival/</guid>
-      <description></description>
     </item>
     
   </channel>

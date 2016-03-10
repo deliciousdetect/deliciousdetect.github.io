@@ -3,8 +3,13 @@
   
   <url>
     <loc>http://deliciousdetector.com/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2016-03-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://deliciousdetector.com/drink/notes/2016-03-09/</loc>
+    <lastmod>2016-03-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -60,6 +65,11 @@
   <url>
     <loc>http://deliciousdetector.com/food/jamjuree-thai-cuisine/</loc>
     <lastmod>2015-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://deliciousdetector.com/drink/boneyard-beer/</loc>
+    <lastmod>2015-06-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
